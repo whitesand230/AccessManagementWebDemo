@@ -1,0 +1,10 @@
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/bin/Debug/netcoreapp2.0/AccessManagementWebApp.deps.json
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/bin/Debug/netcoreapp2.0/AccessManagementWebApp.runtimeconfig.json
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/bin/Debug/netcoreapp2.0/AccessManagementWebApp.runtimeconfig.dev.json
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/bin/Debug/netcoreapp2.0/AccessManagementWebApp.dll
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/bin/Debug/netcoreapp2.0/AccessManagementWebApp.pdb
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/obj/Debug/netcoreapp2.0/AccessManagementWebApp.csproj.CoreCompileInputs.cache
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/obj/Debug/netcoreapp2.0/AccessManagementWebApp.AssemblyInfoInputs.cache
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/obj/Debug/netcoreapp2.0/AccessManagementWebApp.AssemblyInfo.cs
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/obj/Debug/netcoreapp2.0/AccessManagementWebApp.dll
+/Users/whitesand/Projects/AccessManagementWebApp/AccessManagementWebApp/obj/Debug/netcoreapp2.0/AccessManagementWebApp.pdb
